@@ -28,7 +28,7 @@ Para rodar o projeto localmente, basta cumprir as seguintes etapas:
 
 1. Git clone
    ```
-    git clone https://github.com/ssschneider/fotolog-api.git
+    git clone https://github.com/ssschneider/fotolog.git
     ```
 
 2. Git install

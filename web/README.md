@@ -46,7 +46,7 @@ Fotolog API is a project developed in a pair-programming scheme, where the goal 
 > You can check it out by running locally following these steps:
 1. Git clone
    ```
-   git clone https://github.com/ssschneider/fotolog-api.git
+   git clone https://github.com/ssschneider/fotolog.git
    ```
 
 2. Git install
